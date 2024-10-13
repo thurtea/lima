@@ -2,8 +2,9 @@ RiftsMUD is an UNOFFICIAL fan project dedicated
 to adapting the tabletop game into a digital
 experience, RiftsMUD.
 
-DISCLAIMER
 
+
+DISCLAIMER: 
     NO MONETARY DONATIONS OR TIPS:
  This project does not accept any
  monetary donations or tips.
