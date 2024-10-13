@@ -1,24 +1,23 @@
-Lima Mudlib that work with latest FluffOS
+RiftsMUD is an UNOFFICIAL fan project dedicated
+to adapting the tabletop game into a digital
+experience, RiftsMUD.
 
-# Get involved
-- Visit us at limalib.dev 7878 !
-- #LIMA Channel on LPC Discord - https://discord.gg/wzUbBgs3AQ
+DISCLAIMER
 
-# Documentation
-Please see https://limamudlib.readthedocs.io/
-
-# How to test and contribute
-```
-#Stable version
-#git clone --recurse-submodules https://github.com/limalib/lima -b stable
-
-#For a more stable experience, try:
-git clone --recurse-submodules https://github.com/limalib/lima
-
-cd lima/adm/dist
-./rebuild
-./run
-```
-
-# License
-Same as original Lima Lib.
+    NO MONETARY DONATIONS OR TIPS:
+ This project does not accept any
+ monetary donations or tips.
+    UNOFFICIAL FAN PROJECT:
+ This project is an unofficial fan
+ creation and is not associated with,
+ endorsed, or sponsored by Palladium
+ Games or any other entity.
+    NO COPYRIGHT INFRINGEMENT INTENDED:
+ This project is intended as a fan tribute
+ and does not aim to infringe on any
+ copyrights or intellectual property rights
+ held by Palladium Games or others.
+    ALL CONTENT PROVIDED "AS-IS":
+ All content is provided without warranty,
+ express or implied, and the creators shall
+ not be liable for any damages or losses.
