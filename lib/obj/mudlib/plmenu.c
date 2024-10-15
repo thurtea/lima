@@ -14,13 +14,12 @@
 
 #include <combat_config.h>
 #include <commands.h>
-#include <mudlib.h>
 #include <playerflags.h>
 
 // ### for now
 #include <security.h>
 
-inherit "/std/menu2";
+inherit MENUS;
 // ### for now
 inherit M_ACCESS;
 
